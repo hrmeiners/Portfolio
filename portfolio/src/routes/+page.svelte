@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<!-- Homepage UI/frontend -->
+
+<h1>Henry Meiners</h1>
+<p>Welcome to my site! I am happy to have you here!</p>
+<a href='/projects'>Here is a link to my projects!</a>
